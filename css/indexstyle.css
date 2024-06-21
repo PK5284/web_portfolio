@@ -1,3 +1,13 @@
-#top_nav {
-    
+body {
+    background-color:lightblue;
+    color:lightcoral;
+    padding:20px;
+}
+img {
+    border: 5px solid lightcoral;
+    margin:20px;
+}
+h1 {
+    font-size:300%;
+    margin:20px;
 }
